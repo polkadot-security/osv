@@ -15,7 +15,7 @@
       "severity": [
         {
           "type": "CVSS_V4",
-          "scope": "Critical",
+          "scope": "Critical"
         }
       ],
       "ranges": [
